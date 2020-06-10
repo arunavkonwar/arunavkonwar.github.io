@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on ⚡Arunav Konwar⚡</title>
+        <link>https://arunavkonwar.github.io/posts/</link>
+        <description>Recent content in Posts on ⚡Arunav Konwar⚡</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 21 Nov 2019 07:55:12 +0530</lastBuildDate>
+        <atom:link href="https://arunavkonwar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Cloud Native Journey</title>
+            <link>https://arunavkonwar.github.io/posts/2019/11/cloud-native-journey/</link>
+            <pubDate>Thu, 21 Nov 2019 07:55:12 +0530</pubDate>
+            
+            <guid>https://arunavkonwar.github.io/posts/2019/11/cloud-native-journey/</guid>
+            <description>This is an article describing my journey into the cloud-native ecosystem and how I got around to exploring it.
+I first got around to learning about cloud-native technologies was around winter days of January 2019 when I was based in Munich, Germany. I was part of a program with the Technical University of Munich (TUM) where I was working on building skills to identify and solve problems in our daily lives using technology.</description>
+            <content type="html"><![CDATA[<p>This is an article describing my journey into the cloud-native ecosystem and how I got around to exploring it.</p>
+<p>I first got around to learning about cloud-native technologies was around winter days of January 2019 when I was based in Munich, Germany. I was part of a program with the Technical University of Munich (TUM) where I was working on building skills to identify and solve problems in our daily lives using technology. We learnt about solving issues using agile and design thinking menthodologies.</p>
+<p>As part of my role I was expected to develop solutions involving Machine Learning pipelines that had to be hosted and scaled online. I learnt there that this thing called Kubernetes can help me achieve just that. This was the first time I heard of this new technology. Previously I had heard of dockers and used it in experimental learning setting without any real life use-case, but this docker, I learnt, was used in conjunction with Kubernetes to achieve things previously unimaginable.</p>
+<p>We learnt about Kubernetes by directly delving into hands-on exercises which led through installing and running Kubernetes on the Google Cloud Platform (GCP). I learnt how the system stayed up even when one or two of the containers went down for some reason. I realized its importance to the commercial and the mission critical processes. Apparently gone were the days when big sites needed to be taken down for maintainence. There would be no need of downtime in the upcoming future. I liked this idea.</p>
+<p>Following this I was always curious about applying this to my own projects but I was practically limited to using it for myself in a local setting. This was enough for me to get a good idea of the inner workings of the technology and resulted in my giving a small talk about it as part of the Developers’ Circle meetup in Munich, Germany. It was a good time introducing so many new people to the technology and reminded me of the time just a few months before when I was introduced to it for the first time myself.</p>
+<p>I finally got around to attending my first ever cloud-native themed conference, the amazing KubeCon + CloudNativeCon 2019 North America at San Diego, California. I had always read about it and seen photos of the conference on Twitter and finally it was my time to be part of it. It was a surreal experience to finally meet the people behind the technology in person. San Diego and Southern California as a whole is a gem of a region. Sunny and always fun to be around. I liked the looks of the blue skies and the warm beaches, and add to it the amazing conference, it was an unbeatable combination.</p>
+<p>I had an incredible time chatting with core maintainers and contributors at the Contributors’ part and the New Contributors’ summit. The contributors party was set in the old quarters of the San Deigo city and provided a very cozy and warm setting for everyone to talk, have a few beers, eat tacos and enjoy each others’ company with the fun Karaoke set up.</p>
+<p>The day following the party provided an opportunity for all new/intermediate contributors to come into the same page through an amazing session. People were given the overview of the organization and how everyone contributed to the codebase and the checks and balances that was present to take care of the quality of the code and the ecosystem. I was amazed at the sheer scale and the thought process that might have created this whole structure. We managed to pull off a very productive time exploring the Kubernetes codebase. Everyone turned out to be very warm and friendly and seemed always happy to help out. I felt at home.</p>
+<p>The main conference seemed like a theme park with thousands of people roaming around. Never have I ever seen 12,000 people sitting and attending a talk together under one roof. The sheer scale of the ecosystem came into light then and right there. I liked the setting where people post-keynote broke off to attend hundreds of smaller talks around the conference venue. This gave me an opportunity to attend and meet some core maintainers and engineers of some products I loved, for example Spotify. I loved their talk on how they leverage the power of cloudnative technologies to serve millions of people around the world their favorite songs right at their fingertip without fail.</p>
+<p>Everything else after the keynote was even more surprising. The variety of products being developed around the ecosystem was up for show as I saw all the different startups in their booths. This perfectly represented what seemed to be a very sustainable ecosystem between the open-source and commercial world. I remember everyone being very enthusiastic about showing their products and taking time to understand people’s problems and coming back with suitable solutions for them.</p>
+<p>One of the highlights of the conference was meeting Joe Beda and talking with him about technology and how my research work related to the conference. It was a short and a memorable chat, after which he signed his book for me. I carry the book around with me as a quick reference for the technology and also as a reminder of the amazing time I had in San Diego.</p>
+<p>I look forward to being active in the community and contribute to the overall organization. I hope to attend many more of the amazing conferences the community puts up around the world and keep the fire inside alive.</p>
+<p>Arunav Konwar</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>⚡Arunav Konwar⚡</title>
+    <link>https://arunavkonwar.github.io/</link>
+    <description>Recent content on ⚡Arunav Konwar⚡</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 21 Nov 2019 07:55:12 +0530</lastBuildDate>
+    
+	<atom:link href="https://arunavkonwar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About⚡</title>
+      <link>https://arunavkonwar.github.io/about/</link>
+      <pubDate>Tue, 09 Jun 2020 08:20:32 +0530</pubDate>
+      
+      <guid>https://arunavkonwar.github.io/about/</guid>
+      <description>Hi all! I&amp;rsquo;m Arunav. I am a software developer interested in working on and solving real-world problems using computers. I am passionate about the open-source movement and love to collaborate with people on impactful and interesting projects. My primary interests lie in developing scaling web applications, machine learning and its applications in tech and art.
+Apart from computers, I love playing the guitar and producing music. In my free time I also like to go hiking and exploring new places.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Native Journey</title>
+      <link>https://arunavkonwar.github.io/posts/2019/11/cloud-native-journey/</link>
+      <pubDate>Thu, 21 Nov 2019 07:55:12 +0530</pubDate>
+      
+      <guid>https://arunavkonwar.github.io/posts/2019/11/cloud-native-journey/</guid>
+      <description>This is an article describing my journey into the cloud-native ecosystem and how I got around to exploring it.
+I first got around to learning about cloud-native technologies was around winter days of January 2019 when I was based in Munich, Germany. I was part of a program with the Technical University of Munich (TUM) where I was working on building skills to identify and solve problems in our daily lives using technology.</description>
+    </item>
+    
+  </channel>
+</rss>
