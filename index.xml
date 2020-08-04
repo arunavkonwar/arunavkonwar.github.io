@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 21 Nov 2019 07:55:12 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 07:55:12 +0530</lastBuildDate>
     
 	<atom:link href="https://arunavkonwar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>COVID-19: Why listening to data shouldn’t be a political issue</title>
+      <link>https://arunavkonwar.github.io/posts/2020/07/covid-19-why-listening-to-data-shouldnt-be-a-political-issue/</link>
+      <pubDate>Fri, 10 Jul 2020 07:55:12 +0530</pubDate>
+      
+      <guid>https://arunavkonwar.github.io/posts/2020/07/covid-19-why-listening-to-data-shouldnt-be-a-political-issue/</guid>
+      <description>A cautionary tale on politicising data Arunav Konwar
+As I look at the COVID-19 dashboard by the Johns Hopkins University while I write this on 9th July 2020, I see over 3 Million cases of COVID-19 in the USA, more than 1.72 Million cases in Brazil, and over 700K+ cases in India being reported, rounding up the top 3 countries. Needless to say, the virus has gone out of hand and 2020 marks the end of almost a decade long global economic growth post the 2008 financial crisis.</description>
+    </item>
     
     <item>
       <title>About⚡</title>
@@ -20,6 +30,15 @@
       <guid>https://arunavkonwar.github.io/about/</guid>
       <description>Hi all! I&amp;rsquo;m Arunav. I am a software developer interested in working on and solving real-world problems using computers. I am passionate about the open-source movement and love to collaborate with people on impactful and interesting projects. My primary interests lie in developing scaling web applications, machine learning and its applications in tech and art.
 Apart from computers, I love playing the guitar and producing music. In my free time I also like to go hiking and exploring new places.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on bias in facial recognition technologies</title>
+      <link>https://arunavkonwar.github.io/posts/2020/05/thoughts-on-bias-in-facial-recognition-technologies/</link>
+      <pubDate>Sun, 31 May 2020 07:55:12 +0530</pubDate>
+      
+      <guid>https://arunavkonwar.github.io/posts/2020/05/thoughts-on-bias-in-facial-recognition-technologies/</guid>
+      <description>Problem Statement With the onset of new Artificial Intelligence (AI) technologies one of the most pressing problems within countries is their indiscriminate use on their own people. This deployment represents a seismic change in the way countries police and surveil their own citizens. On top of being a surveillance tool it brings with itself more immediate issues such as bias in facial recognition. According to Joy Buolamwini, a researcher at MIT who specializes in understanding AI technologies, these facial recognition technologies are more likely to mis-identify people of color, which especially is a reason for concern for a country like India.</description>
     </item>
     
     <item>

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/arunav/code/personal-site/new/arunavkonwar.github.io",
+	"sourceRoot": "/home/arunav/code/personal-site/hugo-site/arunavkonwar.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
