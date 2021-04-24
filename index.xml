@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 10 Jul 2020 07:55:12 +0530</lastBuildDate>
-    
-	<atom:link href="https://arunavkonwar.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 10 Jul 2020 07:55:12 +0530</lastBuildDate><atom:link href="https://arunavkonwar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19: Why listening to data shouldn’t be a political issue</title>
       <link>https://arunavkonwar.github.io/posts/2020/07/covid-19-why-listening-to-data-shouldnt-be-a-political-issue/</link>
@@ -28,7 +24,8 @@ As I look at the COVID-19 dashboard by the Johns Hopkins University while I writ
       <pubDate>Tue, 09 Jun 2020 08:20:32 +0530</pubDate>
       
       <guid>https://arunavkonwar.github.io/about/</guid>
-      <description>Hi all! I&amp;rsquo;m Arunav. I am a software developer interested in working on and solving real-world problems using computers. I am passionate about the open-source movement and love to collaborate with people on impactful and interesting projects. My primary interests lie in developing scaling web applications, machine learning and its applications in tech and art.
+      <description>Hello all!
+I&amp;rsquo;m Arunav. I am a software engineer passionate about working on and solving real-world challenges. I am involved with the open-source movement and love to collaborate with people on impactful and interesting projects. My primary interests lie in developing scaling web applications, machine learning and its applications in tech and art.
 Apart from computers, I love playing the guitar and producing music. In my free time I also like to go hiking and exploring new places.</description>
     </item>
     
@@ -38,10 +35,10 @@ Apart from computers, I love playing the guitar and producing music. In my free 
       <pubDate>Tue, 09 Jun 2020 08:20:32 +0530</pubDate>
       
       <guid>https://arunavkonwar.github.io/cv/</guid>
-      <description>Arunav Konwar Software developer Email / Website / LinkedIn / GitHub / Twitter
+      <description>Arunav Konwar Software Engineer Email / Website / LinkedIn / GitHub / Twitter
 👩🏼‍💻 Technical Experience Research Developer/Affiliate @ Massachusetts Institute of Technology(MIT) (Nov 2018 - Present) A research lab based at MIT Media Lab working on cutting-edge research projects and ideas.
-  Built the Metafluidics platform and the web app that enables researchers and enthusiasts to share their microfluidic projects.
-  Ownership of documentation and the blog</description>
+  I develop digital web tools and infrastructure at the Community Biotechnology Initiative at the MIT Media Lab to enable scientific research at scale.
+  Built the Metafluidics platform and the web app that enables researchers and enthusiasts to share their microfluidic projects.</description>
     </item>
     
     <item>
