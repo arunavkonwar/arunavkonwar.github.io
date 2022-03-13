@@ -60,15 +60,5 @@ Apart from computers, I love playing the guitar and producing music. In my free 
       <description>Problem Statement With the onset of new Artificial Intelligence (AI) technologies one of the most pressing problems within countries is their indiscriminate use on their own people. This deployment represents a seismic change in the way countries police and surveil their own citizens. On top of being a surveillance tool it brings with itself more immediate issues such as bias in facial recognition. According to Joy Buolamwini, a researcher at MIT who specializes in understanding AI technologies, these facial recognition technologies are more likely to mis-identify people of color, which especially is a reason for concern for a country like India.</description>
     </item>
     
-    <item>
-      <title>Cloud Native Journey</title>
-      <link>https://arunavkonwar.github.io/posts/2019/11/cloud-native-journey/</link>
-      <pubDate>Thu, 21 Nov 2019 07:55:12 +0530</pubDate>
-      
-      <guid>https://arunavkonwar.github.io/posts/2019/11/cloud-native-journey/</guid>
-      <description>This is an article describing my journey into the cloud-native ecosystem and how I got around to exploring it.
-I first got around to learning about cloud-native technologies was around winter days of January 2019 when I was based in Munich, Germany. I was part of a program with the Technical University of Munich (TUM) where I was working on building skills to identify and solve problems in our daily lives using technology.</description>
-    </item>
-    
   </channel>
 </rss>
