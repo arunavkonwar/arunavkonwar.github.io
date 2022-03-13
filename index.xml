@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 10 Jul 2020 07:55:12 +0530</lastBuildDate><atom:link href="https://arunavkonwar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 07:55:12 +0530</lastBuildDate><atom:link href="https://arunavkonwar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Native Journey</title>
+      <link>https://arunavkonwar.github.io/posts/2021/11/cloud-native-journey/</link>
+      <pubDate>Sun, 21 Nov 2021 07:55:12 +0530</pubDate>
+      
+      <guid>https://arunavkonwar.github.io/posts/2021/11/cloud-native-journey/</guid>
+      <description>This is an article describing my journey into the cloud-native ecosystem and how I got around to exploring it.
+I first got around to learning about cloud-native technologies was around winter days of January 2019 when I was based in Munich, Germany. I was part of a program with the Technical University of Munich (TUM) where I was working on building skills to identify and solve problems in our daily lives using technology.</description>
+    </item>
+    
     <item>
       <title>COVID-19: Why listening to data shouldn’t be a political issue</title>
       <link>https://arunavkonwar.github.io/posts/2020/07/covid-19-why-listening-to-data-shouldnt-be-a-political-issue/</link>

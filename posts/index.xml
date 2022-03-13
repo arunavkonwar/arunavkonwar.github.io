@@ -6,8 +6,29 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 10 Jul 2020 07:55:12 +0530</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 07:55:12 +0530</lastBuildDate>
         <atom:link href="https://arunavkonwar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Cloud Native Journey</title>
+            <link>https://arunavkonwar.github.io/posts/2021/11/cloud-native-journey/</link>
+            <pubDate>Sun, 21 Nov 2021 07:55:12 +0530</pubDate>
+            
+            <guid>https://arunavkonwar.github.io/posts/2021/11/cloud-native-journey/</guid>
+            <description>This is an article describing my journey into the cloud-native ecosystem and how I got around to exploring it.
+I first got around to learning about cloud-native technologies was around winter days of January 2019 when I was based in Munich, Germany. I was part of a program with the Technical University of Munich (TUM) where I was working on building skills to identify and solve problems in our daily lives using technology.</description>
+            <content type="html"><![CDATA[<p>This is an article describing my journey into the cloud-native ecosystem and how I got around to exploring it.</p>
+<p>I first got around to learning about cloud-native technologies was around winter days of January 2019 when I was based in Munich, Germany. I was part of a program with the Technical University of Munich (TUM) where I was working on building skills to identify and solve problems in our daily lives using technology. We learnt about solving issues using agile and design thinking menthodologies.</p>
+<p>As part of my role I was expected to develop solutions involving Machine Learning pipelines that had to be hosted and scaled online. I learnt there that this thing called Kubernetes can help me achieve just that. This was the first time I heard of this new technology. Previously I had heard of dockers and used it in experimental learning setting without any real life implementations, but this docker, I learnt, was used in conjunction with Kubernetes to achieve things previously unimaginable.</p>
+<p>We learnt about Kubernetes by directly delving into hands-on exercises which led through installing and running Kubernetes on the Google Cloud Platform (GCP). I learnt how the system stayed up even when one or two of the containers went down for some reason. I realized its importance to the commercial and the mission critical processes. Apparently gone were the days when big sites needed to be taken down for maintainence. There would be no need of downtime in the future. I liked this idea.</p>
+<p>Following this I was always curious about applying this to my own projects but I was practically limited to using it for myself in a local setting. This was enough for me to get a good idea of the inner workings of the technology and resulted in my giving a small talk about it as part of the Developers’ Circle meetup in Munich, Germany. It was a good time introducing so many new people to the technology and reminded me of the time just a few months before when I was introduced to it for the first time myself.</p>
+<p>Me and few co-organizers ended up introducing concepts involving cloudnative technologies to over 300 people across different in-person workshops in Munich, Germany and this, in turn, led to forming a vibrant community within the city around cloudnative technologies.</p>
+<p>Seeing this response I wondered if this same enthusiasm can be replicated in other parts of the world. Following my stint in Munich, I had the opportunity to visit my home country, India, and this led me to starting another local community in my hometown which brought in developers and tech enthusiasts across all age groups. Even though the curriculum had to be a little customised but we ended up having sessions ranging from linux distros to playing around different cloudnative offerings in the cloud platforms.</p>
+<p>As we entered 2020, these meetings had to be shifted online for COVID-19 full time. What started out as a challenge became a great new opportunity to bring in people from outside our geographical area.</p>
+<p>We could not have imagined this transition and the tranformation in our communities over the last couple of years without the immense enthusiasm and perseverance of the members, and deep within, the technologies which enabled our digital connections across the internet. Pretty sure a lot of cloudnative technologies had a big role to play in that. ;)</p>
+<p>Arunav Konwar</p>
+]]></content>
+        </item>
         
         <item>
             <title>COVID-19: Why listening to data shouldn’t be a political issue</title>
@@ -32,7 +53,7 @@ As I look at the COVID-19 dashboard by the Johns Hopkins University while I writ
 <p>Finding the optimal balance between reopening the economy vs keeping the infection rate low needs to be informed by data and not through emotions, and certainly not through politics.</p>
 <h2 id="references">References</h2>
 <p>COVID-19 Map - Johns Hopkins Coronavirus Resource Center (<a href="https://coronavirus.jhu.edu/map.html">https://coronavirus.jhu.edu/map.html</a>)</p>
-<p>McKinsey_coronavirus' impact on India (<a href="https://www.mckinsey.com/featured-insights/india/getting-ahead-of-coronavirus-saving-lives-and-livelihoods-in-india">https://www.mckinsey.com/featured-insights/india/getting-ahead-of-coronavirus-saving-lives-and-livelihoods-in-india</a>)</p>
+<p>McKinsey_coronavirus&rsquo; impact on India (<a href="https://www.mckinsey.com/featured-insights/india/getting-ahead-of-coronavirus-saving-lives-and-livelihoods-in-india">https://www.mckinsey.com/featured-insights/india/getting-ahead-of-coronavirus-saving-lives-and-livelihoods-in-india</a>)</p>
 <p>COVID-19 and global epidemics are becoming more frequent. This is why (<a href="https://www.weforum.org/agenda/2020/03/coronavirus-global-epidemics-health-pandemic-covid-19/">https://www.weforum.org/agenda/2020/03/coronavirus-global-epidemics-health-pandemic-covid-19/</a>)</p>
 <p>The global economy is woefully unprepared for biological threats. This is what we need to do (<a href="https://www.weforum.org/agenda/2019/03/our-economy-is-woefully-underprepared-for-biological-threats/">https://www.weforum.org/agenda/2019/03/our-economy-is-woefully-underprepared-for-biological-threats/</a>)</p>
 <p>NHCC - Taiwan Centers for Disease Control (<a href="https://www.cdc.gov.tw/En/Category/MPage/gL7-bARtHyNdrDq882pJ9Q">https://www.cdc.gov.tw/En/Category/MPage/gL7-bARtHyNdrDq882pJ9Q</a>)</p>
